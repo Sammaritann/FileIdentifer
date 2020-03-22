@@ -1,0 +1,12 @@
+D:\KG\Laba2\Laba2\bin\Debug\Laba2.exe.config
+D:\KG\Laba2\Laba2\bin\Debug\Laba2.exe
+D:\KG\Laba2\Laba2\bin\Debug\Laba2.pdb
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.Form1.resources
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.exe
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.pdb
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.csproj.CopyComplete
+D:\KG\Laba2\Laba2\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\KG\Laba2\Laba2\obj\Debug\Laba2.csproj.Fody.CopyLocal.cache
